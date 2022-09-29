@@ -1,0 +1,27 @@
+Free Bootstrap 4 Resume/CV Template for developers
+
+Theme name:
+=======================================================================
+Strike
+
+Theme version:
+=======================================================================
+v1.1
+
+Release Date:
+=======================================================================
+31 October 2020
+
+Author: 
+=======================================================================
+Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+
+Contact:
+=======================================================================
+Strike10310522@gmail.com
+
+License: 
+=======================================================================
+This template is 100% FREE as long as you keep the footer attribution link. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
+
+If you’d like to use this template without the footer attribution link, you can buy the commercial license - https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap4-resume-cv-template-for-developers-pillar/
